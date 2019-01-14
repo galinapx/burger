@@ -1,5 +1,5 @@
-CREATE DATABASE IF NOT EXISTS burger_db;
-USE burger_db;
+CREATE DATABASE IF NOT EXISTS kmxil3b7hscovnsh;
+USE kmxil3b7hscovnsh;
 
 -- If the table already exists, remove it before trying to create the table again
 DROP TABLE IF EXISTS burgers;

@@ -1,6 +1,6 @@
 {
   "name": "node_what_todo",
-  "version": "10.15.0",
+ "version": "10.15.0",
   "description": "-Node \r -Express \r -MySQL \r -Handlebars \r -Jquery",
   "main": "server.js",
   "scripts": {
